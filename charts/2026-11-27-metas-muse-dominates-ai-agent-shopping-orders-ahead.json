@@ -1,0 +1,35 @@
+{
+  "issueDate": "2026-11-27",
+  "story": {
+    "id": "10028",
+    "title": "🤖 Meta’s AI Agent Now Places Half of All AI Shopping Orders",
+    "publisher": "the_ai_break"
+  },
+  "spec": {
+    "storyId": "10028",
+    "kind": "bar",
+    "title": "Meta's Muse dominates AI agent shopping orders ahead of Black Friday",
+    "subtitle": "Share of all AI agent shopping orders by platform, week before Black Friday 2026",
+    "unit": "%",
+    "points": [
+      {
+        "label": "Meta Muse",
+        "value": 51,
+        "evidence": "Meta's AI agent Muse placed 51% of all AI agent shopping orders in the week before Black Friday",
+        "highlight": true
+      },
+      {
+        "label": "Grok",
+        "value": 24,
+        "evidence": "ahead of Grok (24%) and ChatGPT (22%)",
+        "highlight": false
+      },
+      {
+        "label": "ChatGPT",
+        "value": 22,
+        "evidence": "ahead of Grok (24%) and ChatGPT (22%)",
+        "highlight": false
+      }
+    ]
+  }
+}
